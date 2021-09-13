@@ -13,12 +13,25 @@ header, .project:not(:last-child) {
 }
 
 .no-button:hover {
-  color: #065b83;
+  color: blue;
   text-decoration: underline;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
+.home-header {
+  padding-left: 20px;
+  color: white;
+}
+header {
+  background-color: #1b89bc;
+  color: white;
+}
+.nav-a {
+  color:white;
+}
+.header-h1 {
+  text-align: left;
+}
+.btn {
+  background-color: white;
+  color: black;
 }
