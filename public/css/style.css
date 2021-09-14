@@ -19,19 +19,19 @@ header, .project:not(:last-child) {
 
 .home-header {
   padding-left: 20px;
-  color: white;
+  color: #ccc;
 }
 header {
-  background-color: white;
-  color: white;
+  background-color:#1b89bc;
+  color: #ccc;
 }
 .nav-a {
-  color:white;
+  color: #ccc;
 }
 .header-h1 {
   text-align: left;
 }
 .btn {
-  background-color: white;
+  background-color: #ccc;
   color: black;
 }
