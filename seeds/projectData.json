@@ -1,17 +1,14 @@
 [
   {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-    "needed_funding": 5000
+    "name": "Why is coding so fun?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pharetra pretium tellus. Nam ullamcorper sodales sapien vitae malesuada. Aliquam semper posuere ornare. Duis malesuada eu nunc eu vehicula. Aliquam viverra magna nibh, at elementum sem pulvinar ut. Donec aliquet tempor ipsum et commodo. Duis hendrerit, lectus sed dictum finibus, ante erat facilisis nisi, et vulputate velit sapien sed odio. Cras at ullamcorper ex. Mauris commodo elementum tempor. Nam hendrerit interdum urna ac aliquam. Etiam quis pretium neque. Praesent mattis ut nisi non cursus."
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "needed_funding": 10000
+    "name": "Why 1+1 makes no sense in coding.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pharetra pretium tellus. Nam ullamcorper sodales sapien vitae malesuada. Aliquam semper posuere ornare. Duis malesuada eu nunc eu vehicula. Aliquam viverra magna nibh, at elementum sem pulvinar ut. Donec aliquet tempor ipsum et commodo. Duis hendrerit, lectus sed dictum finibus, ante erat facilisis nisi, et vulputate velit sapien sed odio. Cras at ullamcorper ex. Mauris commodo elementum tempor. Nam hendrerit interdum urna ac aliquam. Etiam quis pretium neque. Praesent mattis ut nisi non cursus."
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
+    "name": "How to code with the most basic html alive.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pharetra pretium tellus. Nam ullamcorper sodales sapien vitae malesuada. Aliquam semper posuere ornare. Duis malesuada eu nunc eu vehicula. Aliquam viverra magna nibh, at elementum sem pulvinar ut. Donec aliquet tempor ipsum et commodo. Duis hendrerit, lectus sed dictum finibus, ante erat facilisis nisi, et vulputate velit sapien sed odio. Cras at ullamcorper ex. Mauris commodo elementum tempor. Nam hendrerit interdum urna ac aliquam. Etiam quis pretium neque. Praesent mattis ut nisi non cursus."
   }
 ]
